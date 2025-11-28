@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "myakshaydatafactory"
+		},
+		"AzureSQL_password": {
+			"value": ""
+		},
+		"dataLake_accountKey": {
+			"value": ""
+		},
+		"AzureSQL_properties_typeProperties_server": {
+			"value": "myakshaysqldatabase.database.windows.net"
+		},
+		"AzureSQL_properties_typeProperties_database": {
+			"value": "akshaydbname"
+		},
+		"AzureSQL_properties_typeProperties_userName": {
+			"value": "myakshay"
+		},
+		"dataLake_properties_typeProperties_url": {
+			"value": "https://mystorageakki.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
