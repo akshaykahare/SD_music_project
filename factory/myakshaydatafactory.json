@@ -1,0 +1,9 @@
+{
+	"name": "myakshaydatafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9ff1be6c-7265-4af0-851e-0eff6bfc8018",
+		"tenantId": "377abe2c-b54f-469b-8b0a-2dc8d867e0c9"
+	}
+}
